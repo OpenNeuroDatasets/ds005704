@@ -6,16 +6,14 @@
         "Christopher Baldassano"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "https://doi.org/10.1101/2024.11.26.625465",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005704.v1.0.0",
     "Funding": [
         "Multi-University Research Initiative Grant (ONR/DoDN00014-17-1-2961) to KAN",
         "NINDS D-SPAN F99NS120644-01 to RMO",
         "T32MH065214 to RMO"
     ],
     "HowToAcknowledge": "Dataset usage can be cited for the preprint (https://doi.org/10.1101/2024.11.26.625465) or corresponding publication.",
-    "License": "PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "License": "CC0",
     "Name": "How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects",
-    "ReferencesAndLinks": [
-
-    ]
+    "ReferencesAndLinks": []
 }
