@@ -1,0 +1,26 @@
+onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+0.0	17.985000000000014	T:	n/a	n/a	n/a
+17.985000000000014	12.134999999999993	RV1.0:	n/a	tv_rec.mp4	n/a
+30.120000000000005	12.020000000000095	RV1.1:	n/a	applecrate_roomrec.mp4	n/a
+42.1400000000001	11.9849999999999	RV1.2:	n/a	empty_roomrec.mp4	n/a
+54.125	12.0	RV1.3:	n/a	altar_roomrec.mp4	n/a
+66.125	12.007000000000062	RV1.4:	n/a	storage_rec.mp4	n/a
+78.13200000000006	11.992999999999938	RV1.5:	n/a	class_rec.mp4	n/a
+90.125	12.00400000000002	RV1.6:	n/a	crystals_roomrec.mp4	n/a
+102.12900000000002	12.00400000000002	RV1.7:	n/a	antiques_rec.mp4	n/a
+114.13300000000004	11.994000000000028	RV1.8:	n/a	island_rec.mp4	n/a
+126.12700000000008	12.002999999999927	RV1.9:	n/a	paint_rec.mp4	n/a
+138.13	12.00100000000009	RV1.10:	n/a	tools_rec.mp4	n/a
+150.13100000000009	12.0	RV1.11:	n/a	chess_roomrec.mp4	n/a
+162.13100000000009	12.002999999999927	RV1.12:	n/a	humans_roomrec.mp4	n/a
+174.134	12.0	RV1.13:	n/a	pc_rec.mp4	n/a
+186.134	12.000999999999976	RV1.14:	n/a	clocks_roomrec.mp4	n/a
+198.135	12.00100000000009	RV1.15:	n/a	texture_roomrec.mp4	n/a
+210.13600000000008	12.0	RV1.16:	n/a	bday_roomrec.mp4	n/a
+222.13600000000008	12.005999999999972	RV1.17:	n/a	space_rec.mp4	n/a
+234.14200000000005	11.995000000000005	RV1.18:	n/a	bedroom_rec.mp4	n/a
+246.13700000000009	12.001999999999953	RV1.19:	n/a	firepit_roomrec.mp4	n/a
+258.139	11.99599999999998	RV1.20:	n/a	candy_rec.mp4	n/a
+270.135	12.00100000000009	RV1.21:	n/a	cats_roomrec.mp4	n/a
+282.1360000000001	17.021999999999935	RV1.22:	n/a	ruins_roomrec.mp4	n/a
+299.158	n/a	PT:	n/a	n/a	n/a
