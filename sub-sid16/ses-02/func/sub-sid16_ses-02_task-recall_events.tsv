@@ -1,0 +1,15 @@
+onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+0.0	4.990000000000009	T:	n/a	n/a	n/a
+4.990000000000009	418.1239999999999	FR:	n/a	n/a	n/a
+423.1139999999999	110.2600000000001	GR0:	n/a	Painting; Storage Boxes; Chess; Ruins; Cat Portraits	n/a
+533.374	92.25199999999997	GR1:	n/a	Computer Store; Planet; Floating Islands; Bedroom; Tool	n/a
+625.626	120.52200000000003	GR2:	n/a	Tool; Classroom; Antiques; TV; Candy	n/a
+746.148	102.17099999999994	GR3:	n/a	Chess; Storage Boxes; Painting; Computer Store; Tool	n/a
+848.319	146.27200000000005	GR4:	n/a	Human Portraits; Firepit; Abandoned Birthday Party; Apple Crates; Stone Altar	n/a
+994.591	146.087	GR5:	n/a	Stone Altar; Apple Crates; Abandoned Birthday Party; Firepit; Human Portraits	n/a
+1140.678	111.90200000000004	GR6:	n/a	Candy; Classroom; Tool; Bedroom; Floating Islands	n/a
+1252.5800000000002	111.66999999999985	GR7:	n/a	Ruins; Clocks; Crystals; Colorful Wall; Stone Altar	n/a
+1364.25	98.856	GR8:	n/a	Stone Altar; Colorful Wall; Crystals; Clocks; Ruins	n/a
+1463.106	101.52300000000014	GR9:	n/a	Empty; Cat Portraits; Ruins; Chess; Human Portraits	n/a
+1564.629	94.144	GR10:	n/a	Floating Islands; Planet; Computer Store; Painting; Human Portraits	n/a
+1658.773	n/a	PT:	n/a	n/a	n/a
